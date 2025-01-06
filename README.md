@@ -5,9 +5,6 @@ contain the root `toctree` directive. -->
 
 # TP1 - Filtrage adapté aux signaux
 
-Lien de la page GitLab avec la documentation  [Documentation](https://m2cosmo-tp1-4ecb4e.pages.in2p3.fr/)
-
-
 # Contents:
 
 - [README](#readme)
@@ -49,7 +46,7 @@ Enfin il permet de detecter une onde gravitationnelle dans un signal bruité, et
 1. Clonez le dépôt GitHub :
    
     ```bash
-    $ git clone git@gitlab.in2p3.fr:dimitri.buffat/m2cosmo_tp1.git
+    $ git clone git@github.com:dbuffat/detection.git
     ```
    
 2. Allez dans le dossier du package :
@@ -101,7 +98,7 @@ Les contributions sont les bienvenues! Pour contribuer à 2048 veuillez suivre c
 
 3. Commitez vos changements.
 	```bash
-	$ git commit -m 'Ajout d\'une nouvelle fonctionnalité'
+	$ git commit -m "Ajout d'une nouvelle fonctionnalité"
 	```
 
 4. Poussez votre branche.
