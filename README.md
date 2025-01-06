@@ -111,6 +111,11 @@ Les contributions sont les bienvenues! Pour contribuer à 2048 veuillez suivre c
 
 5. Ouvrez une Pull Request.
 
+## Contributeurs
+
+Merci aux personnes ayant contribué à ce projet :  
+- THOMEER Matthieu
+
 ## License
 
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
@@ -1056,4 +1061,7 @@ Aucun.
 #### Retourne :
 
 Aucun. Les graphiques sont affichés.
+## Contributeurs
 
+Merci aux personnes ayant contribué à ce projet :  
+- [MAAMAATUAIAHUTAPU Tetautahi](https://github.com/tmaamaatua)
