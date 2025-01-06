@@ -15,6 +15,7 @@ Lien de la page GitLab avec la documentation  [Documentation](https://m2cosmo-tp
 - [Installation](#installation)
 - [Utilisation](#bruitblanc)
 - [Contributions](#contributions)
+- [Contributeurs](#contributeurs)
 - [License](#license)
 
 - [Réponses aux Questions](#reponse-aux-questions)
